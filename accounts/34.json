@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medico-349008",
+  "private_key_id": "fa44dca27d1f0a4bfc89fe03def9f676d7ee5506",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHYqdLX3BRtLcE\ndwP/xnq6XDl4YSKRpX1kLsv8L4N1FVhMOyDkELj+IF8ixE3LGD2HuR4soCvYkIGQ\nCokw650TX42xVhXT1rX9wXuwOZ7TibjzmIGncNJvKjLRkJW751iUAEb8yLOXrPMT\n9mVsXCDwQ/IA8qWYt7X+bzdKf1aoODrVb9S1NQtbm2SCsh+qDzYGicx59vRgdan0\ne+q3PWNZ3hZfFjJBg6KltoT+NGDNrcPuM3uWrMEqnUEr7qXNqNU7vVGHDzRM6sFh\n260URmqqxwLVV6CnZ9M7eCcQmEErg2LWQSHUr3dTCwD5LrPPxH/+NIZNVffJsbmn\n+pX41SNTAgMBAAECggEAAecBxDkJmALHf9roDMMAVvio5OpxJOU1bStgvEWMLwwZ\n/UXPjaC20YuBU0V+0OvCMCI57mB4dDoFinH9sIJNZURs1F7T/+MiD5hB5yk9lM4d\n5Iq1d5TR5S6iMOUWXXMauyeSuQTsAov4MirdLKuaXHO0tbUBYHol2eLsxG1/m0Sq\njhVd0ge7R1TjCKNtTy/nB1XFkhrNsz58ITwzK+DmZsR47SPoxrYPsbBMjBgqrjlG\nTht6JM0QueD6AkCJkPOPZCuz+tPQp6HGG0eTEy9HUoHOfuIg4SQvXGzHS4BHUzQ9\narXcdAXb7OpUvE8BwU3xZNR2P/dhF16uwrYgFFY8JQKBgQDy0lsJJjbvhHJTkUOZ\nYmufmwPyBKiVt5dulv5MjoOW9hE+9FCfAq/FsT7eLbhsHYPIwZnhc+L6nVg/QtZT\nnVYRxJ0EUYEkmbhD4xjGzsmb+QA3kG1xb7rP6FcXU42qJmrdYB1R6xq4DO8qO5lr\nmX7FFVrf5/rE8J3GXLccCsO6nQKBgQDSNNCgvH87IkzSQMpLEwadpq52vLd2Lkx+\ntDCwLoKT/MOXbBE557traCrqKfldyTJnLqeAOsaHuzQaqu28T4zMqg7sFhLrh8np\nrbpHmnUwjDjvQofHcjGzHldCJPV0OkqqKhTsvbAd0MqiHbGWMuAI8/aP6Hnr1lh4\n2AWzd3U6rwKBgQCxzP4D8QuAzsa4EkIhakPMFsII0QhwuIIV5FJI1IHeZEe0hUkT\nZfA3HdYe8fN8lxAMTFbVEvo88EHR8KrnhumjEQi4RMX/et/GNd/Kk1hk8SsLhKHe\n0iVEX6iF2BR/ZqoRd3OArFpgMnhdwE5Sz45X2Y81LLQeyOF+gh1CV0+CsQKBgHxG\nkVmWV7pESxq7B15fPzgRhW/ZnrWWJc97BJYEyVpow9JQJ9cOM/YKPeT3L+DMxKnQ\nIWNkXF9+xA1IJQmCFoIhwHS/kCwDudIXzdvra4FqRXbe5Jt73fpB4+DNLPisRdxY\nyMo2U1stR7+UwptENMPWSF1IWlyd+uxm+ufhpkMtAoGBAN3X/A5cBWIZzeMolBQO\nlvcEysOORYuccgvRGjvswlXVVB5naAakaiIX/kJ4NQxnc+mQT/pbDI8NiAqqH0/E\n0IzHCuWj+V0LTA+VfAgFUhAxoyrK4epupLcHtzkhoU7qrIHU/iawUj/w2Kg+O1hu\nXp8u3dGNtCR/M14GbbB9T3dK\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-dze7qtl0l9unfzvgjauz7flgmn@medico-349008.iam.gserviceaccount.com",
+  "client_id": "113691169413012142111",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-dze7qtl0l9unfzvgjauz7flgmn%40medico-349008.iam.gserviceaccount.com"
+}
